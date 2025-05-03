@@ -78,6 +78,8 @@ streamlit run dashboard_app.py
 - Project-level visualization of total cost and moving average
 - Real-time anomaly detection based on custom thresholds
 
+![image alt](https://github.com/KunHeeLisaLee/Monitoring-GCP-Costs-Forecasting-Anomaly-Detection/blob/1277d481b1209590eec33f18e61b47a23f1a3af6/dashboard_screenshot.png)
+
 **Contributors:**
 - Kunhee (Lisa) Lee
 - Perry (Pei-An) Lin  
