@@ -12,7 +12,7 @@ A lightweight, end-to-end toolkit for analyzing and forecasting Google Cloud Pla
 
 | File               | Description                                                 |
 |--------------------|-------------------------------------------------------------|
-| `prophet_pl.py`    | Forecasts total cost using Facebook Prophet (daily + monthly outputs) |
+| `prophet.py`    | Forecasts total cost using Facebook Prophet (daily + monthly outputs) |
 | `process_data.py`  | Aggregates raw CSVs, computes MAs, %/$ changes, saves Parquet output |
 | `dashboard_app.py` | Streamlit dashboard for filtering and visualizing cost trends         |
 
